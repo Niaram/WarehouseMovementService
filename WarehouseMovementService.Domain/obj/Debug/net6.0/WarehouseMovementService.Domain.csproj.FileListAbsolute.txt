@@ -10,3 +10,15 @@ C:\repos\NA\TataTu\WarehouseMovementService.Domain\obj\Debug\net6.0\WarehouseMov
 C:\repos\NA\TataTu\WarehouseMovementService.Domain\obj\Debug\net6.0\refint\WarehouseMovementService.Domain.dll
 C:\repos\NA\TataTu\WarehouseMovementService.Domain\obj\Debug\net6.0\WarehouseMovementService.Domain.pdb
 C:\repos\NA\TataTu\WarehouseMovementService.Domain\obj\Debug\net6.0\ref\WarehouseMovementService.Domain.dll
+C:\repos\NA\WarehouseMovementService\WarehouseMovementService.Domain\bin\Debug\net6.0\WarehouseMovementService.Domain.deps.json
+C:\repos\NA\WarehouseMovementService\WarehouseMovementService.Domain\bin\Debug\net6.0\WarehouseMovementService.Domain.dll
+C:\repos\NA\WarehouseMovementService\WarehouseMovementService.Domain\bin\Debug\net6.0\WarehouseMovementService.Domain.pdb
+C:\repos\NA\WarehouseMovementService\WarehouseMovementService.Domain\obj\Debug\net6.0\WarehouseMovementService.Domain.csproj.AssemblyReference.cache
+C:\repos\NA\WarehouseMovementService\WarehouseMovementService.Domain\obj\Debug\net6.0\WarehouseMovementService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\NA\WarehouseMovementService\WarehouseMovementService.Domain\obj\Debug\net6.0\WarehouseMovementService.Domain.AssemblyInfoInputs.cache
+C:\repos\NA\WarehouseMovementService\WarehouseMovementService.Domain\obj\Debug\net6.0\WarehouseMovementService.Domain.AssemblyInfo.cs
+C:\repos\NA\WarehouseMovementService\WarehouseMovementService.Domain\obj\Debug\net6.0\WarehouseMovementService.Domain.csproj.CoreCompileInputs.cache
+C:\repos\NA\WarehouseMovementService\WarehouseMovementService.Domain\obj\Debug\net6.0\WarehouseMovementService.Domain.dll
+C:\repos\NA\WarehouseMovementService\WarehouseMovementService.Domain\obj\Debug\net6.0\refint\WarehouseMovementService.Domain.dll
+C:\repos\NA\WarehouseMovementService\WarehouseMovementService.Domain\obj\Debug\net6.0\WarehouseMovementService.Domain.pdb
+C:\repos\NA\WarehouseMovementService\WarehouseMovementService.Domain\obj\Debug\net6.0\ref\WarehouseMovementService.Domain.dll
