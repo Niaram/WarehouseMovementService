@@ -1,0 +1,64 @@
+2022-10-23 09:54:49.404 +02:00 [DBG] Hosting starting
+2022-10-23 09:54:49.580 +02:00 [INF] Now listening on: http://localhost:5291
+2022-10-23 09:54:49.585 +02:00 [DBG] Loaded hosting startup assembly WarehouseMovementService
+2022-10-23 09:54:49.587 +02:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2022-10-23 09:54:49.588 +02:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2022-10-23 09:54:49.589 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-10-23 09:54:49.590 +02:00 [INF] Hosting environment: Development
+2022-10-23 09:54:49.591 +02:00 [INF] Content root path: C:\repos\NA\TataTu\WarehouseMovementService\
+2022-10-23 09:54:49.592 +02:00 [DBG] Hosting started
+2022-10-23 09:54:49.723 +02:00 [DBG] Connection id "0HMLKPFE8397D" accepted.
+2022-10-23 09:54:49.723 +02:00 [DBG] Connection id "0HMLKPFE8397C" accepted.
+2022-10-23 09:54:49.727 +02:00 [DBG] Connection id "0HMLKPFE8397C" started.
+2022-10-23 09:54:49.727 +02:00 [DBG] Connection id "0HMLKPFE8397D" started.
+2022-10-23 09:54:49.766 +02:00 [DBG] Connection id "0HMLKPFE8397C" received FIN.
+2022-10-23 09:54:49.766 +02:00 [DBG] Connection id "0HMLKPFE8397D" received FIN.
+2022-10-23 09:54:49.773 +02:00 [DBG] Connection id "0HMLKPFE8397C" sending FIN because: "The client closed the connection."
+2022-10-23 09:54:49.780 +02:00 [DBG] Connection id "0HMLKPFE8397C" disconnecting.
+2022-10-23 09:54:49.785 +02:00 [DBG] Connection id "0HMLKPFE8397C" stopped.
+2022-10-23 09:54:49.815 +02:00 [DBG] Connection id "0HMLKPFE8397D" sending FIN because: "The client closed the connection."
+2022-10-23 09:54:49.849 +02:00 [DBG] Connection id "0HMLKPFE8397D" disconnecting.
+2022-10-23 09:54:49.851 +02:00 [DBG] Connection id "0HMLKPFE8397D" stopped.
+2022-10-23 09:54:50.085 +02:00 [DBG] Connection id "0HMLKPFE8397E" accepted.
+2022-10-23 09:54:50.092 +02:00 [DBG] Connection id "0HMLKPFE8397E" started.
+2022-10-23 09:54:50.092 +02:00 [DBG] Connection id "0HMLKPFE8397F" accepted.
+2022-10-23 09:54:50.110 +02:00 [DBG] Connection id "0HMLKPFE8397F" started.
+2022-10-23 09:54:50.170 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5291/swagger/index.html - -
+2022-10-23 09:54:50.220 +02:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2022-10-23 09:54:50.253 +02:00 [DBG] No candidates found for the request path '/swagger/index.html'
+2022-10-23 09:54:50.257 +02:00 [DBG] Request did not match any endpoints
+2022-10-23 09:54:50.361 +02:00 [DBG] Response markup is scheduled to include browser refresh script injection.
+2022-10-23 09:54:50.477 +02:00 [INF] HTTP GET /swagger/index.html responded 200 in 214.4318 ms
+2022-10-23 09:54:50.488 +02:00 [DBG] Response markup was updated to include browser refresh script injection.
+2022-10-23 09:54:50.490 +02:00 [DBG] Connection id "0HMLKPFE8397E" completed keep alive response.
+2022-10-23 09:54:50.493 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5291/swagger/index.html - - - 200 - text/html;charset=utf-8 330.7914ms
+2022-10-23 09:54:50.509 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5291/_vs/browserLink - -
+2022-10-23 09:54:50.511 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5291/_framework/aspnetcore-browser-refresh.js - -
+2022-10-23 09:54:50.517 +02:00 [DBG] Connection id "0HMLKPFE8397E" completed keep alive response.
+2022-10-23 09:54:50.525 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5291/_framework/aspnetcore-browser-refresh.js - - - 200 12018 application/javascript;+charset=utf-8 13.6088ms
+2022-10-23 09:54:50.540 +02:00 [DBG] Connection id "0HMLKPFE8397F" completed keep alive response.
+2022-10-23 09:54:50.543 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5291/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 33.7393ms
+2022-10-23 09:54:50.661 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5291/swagger/v1/swagger.json - -
+2022-10-23 09:54:50.664 +02:00 [DBG] No candidates found for the request path '/swagger/v1/swagger.json'
+2022-10-23 09:54:50.666 +02:00 [DBG] Request did not match any endpoints
+2022-10-23 09:54:50.737 +02:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 68.7741 ms
+2022-10-23 09:54:50.741 +02:00 [DBG] Connection id "0HMLKPFE8397F" completed keep alive response.
+2022-10-23 09:54:50.744 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5291/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 82.3947ms
+2022-10-23 09:54:58.162 +02:00 [DBG] Connection id "0HMLKPFE8397G" accepted.
+2022-10-23 09:54:58.166 +02:00 [DBG] Connection id "0HMLKPFE8397G" started.
+2022-10-23 09:54:58.168 +02:00 [INF] Request starting HTTP/1.1 HEAD http://localhost:5291/ - -
+2022-10-23 09:54:58.169 +02:00 [DBG] No candidates found for the request path '/'
+2022-10-23 09:54:58.171 +02:00 [DBG] Request did not match any endpoints
+2022-10-23 09:54:58.176 +02:00 [DBG] The request path  does not match the path filter
+2022-10-23 09:54:58.177 +02:00 [INF] HTTP HEAD / responded 404 in 2.6700 ms
+2022-10-23 09:54:58.179 +02:00 [DBG] Connection id "0HMLKPFE8397G" completed keep alive response.
+2022-10-23 09:54:58.181 +02:00 [INF] Request finished HTTP/1.1 HEAD http://localhost:5291/ - - - 404 - - 13.1016ms
+2022-10-23 09:55:02.300 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5291/weatherforecast - -
+2022-10-23 09:55:02.308 +02:00 [DBG] 1 candidate(s) found for the request path '/weatherforecast'
+2022-10-23 09:55:02.314 +02:00 [DBG] Request matched endpoint 'HTTP: GET /weatherforecast'
+2022-10-23 09:55:02.315 +02:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2022-10-23 09:55:02.325 +02:00 [INF] Executing endpoint 'HTTP: GET /weatherforecast'
+2022-10-23 09:55:02.327 +02:00 [INF] Executed endpoint 'HTTP: GET /weatherforecast'
+2022-10-23 09:55:02.328 +02:00 [INF] HTTP GET /weatherforecast responded 200 in 13.3116 ms
+2022-10-23 09:55:02.331 +02:00 [DBG] Connection id "0HMLKPFE8397F" completed keep alive response.
+2022-10-23 09:55:02.333 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5291/weatherforecast - - - 200 0 - 32.7138ms
